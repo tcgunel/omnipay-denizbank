@@ -1,0 +1,7 @@
+{
+  "merchantId": "DenizShop001",
+  "merchantUser": "DenizUser",
+  "merchantPassword": "DenizPass123",
+  "merchantStorekey": "DenizStoreKey456",
+  "testMode": true
+}

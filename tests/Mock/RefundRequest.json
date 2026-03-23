@@ -1,0 +1,9 @@
+{
+  "merchantId": "DenizShop001",
+  "merchantUser": "DenizUser",
+  "merchantPassword": "DenizPass123",
+  "testMode": true,
+  "orderNumber": "ORDER-12345",
+  "amount": "50.00",
+  "currency": "TRY"
+}
